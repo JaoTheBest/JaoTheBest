@@ -1,6 +1,6 @@
 #Opa, eu sou o João Victor!
 
--💻 Trabalho com Montagem e Manutenção de computadores!
+-💻 Montagem e Manutenção de computadores!
 
 -📚 Atualmente estudando Linguagem de programação Python, informática e Inglês!
 
