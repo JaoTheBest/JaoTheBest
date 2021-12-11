@@ -2,7 +2,7 @@
 
 -💻 Montagem e Manutenção de computadores!
 
--📚 Estudando Linguagem de programação Python, informática e Inglês!
+-📚 Estudando Linguagem de programação Python, Javascript, Informática e Inglês!
 
 <div>
   <a href="https://github.com/JaoTheBest">
